@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Olcay Han Korkut</h1>
-<h3 align="center">A Learner</h3>
+<h3 align="center">I'm a learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olcayhan&label=Profile%20views&color=0e75b6&style=flat" alt="olcayhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olcayhan" alt="olcayhan" /></a> </p>
+- 🔭 I’m currently **studying at Bandirma 17 Eylul University**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌱 I’m currently learning **React Native and Next.js**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js, Javascript and Python**
 
 - 📫 How to reach me **kolcayhan1@gmail.com**
 
