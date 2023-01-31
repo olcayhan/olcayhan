@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **studying at Bandirma 17 Eylul University**
 
-- 🌱 I’m currently learning **React Native and Next.js**
+- 🌱 I’m currently learning **Angular.js**
 
 - 💬 Ask me about **React.js, Javascript and Python**
 
