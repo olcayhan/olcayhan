@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olcay Han Korkut</h1>
 <h3 align="center">I'm a Learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olcayhan&label=Profile%20views&color=0e75b6&style=flat" alt="olcayhan" /> </p>
-
 - 🔭 I’m currently **studying at Bandirma 17 Eylul University**
 
 - 🌱 I’m currently learning **Vue.js and React Native**
