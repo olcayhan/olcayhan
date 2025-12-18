@@ -1,2 +1,2 @@
-<h3 align="center">I'm just coding</h3>
+<h3 align="center">Currently learning go and .net</h3>
 
